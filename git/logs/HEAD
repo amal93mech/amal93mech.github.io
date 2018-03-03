@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 65f337a2d490d0542a918f284c1f977202e47d12 msunij <msunij1993@gmail.com> 1520016215 +0530	commit (initial): center caption needed
+65f337a2d490d0542a918f284c1f977202e47d12 65f337a2d490d0542a918f284c1f977202e47d12 msunij <msunij1993@gmail.com> 1520016229 +0530	checkout: moving from master to centercaption
+65f337a2d490d0542a918f284c1f977202e47d12 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520110280 +0530	commit: finished outer works, need contents now
+6510770489087e878dc776a65c41f8943a20b3f3 65f337a2d490d0542a918f284c1f977202e47d12 msunij <msunij1993@gmail.com> 1520111274 +0530	checkout: moving from centercaption to master
+65f337a2d490d0542a918f284c1f977202e47d12 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520111292 +0530	merge centercaption: Fast-forward
+6510770489087e878dc776a65c41f8943a20b3f3 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520113366 +0530	reset: moving to HEAD
+6510770489087e878dc776a65c41f8943a20b3f3 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520113594 +0530	checkout: moving from master to centercaption
+6510770489087e878dc776a65c41f8943a20b3f3 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520114064 +0530	checkout: moving from centercaption to master
+6510770489087e878dc776a65c41f8943a20b3f3 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520114083 +0530	checkout: moving from master to centercaption
+6510770489087e878dc776a65c41f8943a20b3f3 14eb7e6bd440590ede5f4e223d23548242e10265 msunij <msunij1993@gmail.com> 1520114426 +0530	commit: only content needed
+14eb7e6bd440590ede5f4e223d23548242e10265 6510770489087e878dc776a65c41f8943a20b3f3 msunij <msunij1993@gmail.com> 1520114438 +0530	checkout: moving from centercaption to master
+6510770489087e878dc776a65c41f8943a20b3f3 14eb7e6bd440590ede5f4e223d23548242e10265 msunij <msunij1993@gmail.com> 1520114452 +0530	merge centercaption: Fast-forward
+14eb7e6bd440590ede5f4e223d23548242e10265 14eb7e6bd440590ede5f4e223d23548242e10265 msunij <msunij1993@gmail.com> 1520116474 +0530	reset: moving to HEAD
+14eb7e6bd440590ede5f4e223d23548242e10265 68d1050a5f857248835c4f148490cbe09023f485 msunij <msunij1993@gmail.com> 1520116954 +0530	commit (merge): commited to get sync with remote
+68d1050a5f857248835c4f148490cbe09023f485 14eb7e6bd440590ede5f4e223d23548242e10265 msunij <msunij1993@gmail.com> 1520117028 +0530	checkout: moving from master to centercaption
+14eb7e6bd440590ede5f4e223d23548242e10265 68d1050a5f857248835c4f148490cbe09023f485 msunij <msunij1993@gmail.com> 1520117060 +0530	checkout: moving from centercaption to master
+68d1050a5f857248835c4f148490cbe09023f485 14eb7e6bd440590ede5f4e223d23548242e10265 msunij <msunij1993@gmail.com> 1520117106 +0530	checkout: moving from master to centercaption
+14eb7e6bd440590ede5f4e223d23548242e10265 efe1d13797ce6b41278b2945f74817f964af7b40 msunij <msunij1993@gmail.com> 1520117436 +0530	commit: no changes
+efe1d13797ce6b41278b2945f74817f964af7b40 68d1050a5f857248835c4f148490cbe09023f485 msunij <msunij1993@gmail.com> 1520117479 +0530	checkout: moving from centercaption to master
+68d1050a5f857248835c4f148490cbe09023f485 87167d72992936120ad44349788b9722800e057a msunij <msunij1993@gmail.com> 1520117502 +0530	merge centercaption: Merge made by the 'recursive' strategy.
+87167d72992936120ad44349788b9722800e057a efe1d13797ce6b41278b2945f74817f964af7b40 msunij <msunij1993@gmail.com> 1520117661 +0530	checkout: moving from master to centercaption
+efe1d13797ce6b41278b2945f74817f964af7b40 87167d72992936120ad44349788b9722800e057a msunij <msunij1993@gmail.com> 1520117833 +0530	checkout: moving from centercaption to master
+87167d72992936120ad44349788b9722800e057a cd04d3a0271dfda20f5935bb87866a45347d3d70 msunij <msunij1993@gmail.com> 1520118008 +0530	commit: empty
+cd04d3a0271dfda20f5935bb87866a45347d3d70 efe1d13797ce6b41278b2945f74817f964af7b40 msunij <msunij1993@gmail.com> 1520118064 +0530	checkout: moving from master to centercaption
+efe1d13797ce6b41278b2945f74817f964af7b40 cd04d3a0271dfda20f5935bb87866a45347d3d70 msunij <msunij1993@gmail.com> 1520118137 +0530	checkout: moving from centercaption to master
+cd04d3a0271dfda20f5935bb87866a45347d3d70 efe1d13797ce6b41278b2945f74817f964af7b40 msunij <msunij1993@gmail.com> 1520118152 +0530	checkout: moving from master to centercaption
+efe1d13797ce6b41278b2945f74817f964af7b40 edaab286d5bbd1bbd1833228d2ac4eb913a1ea29 msunij <msunij1993@gmail.com> 1520118904 +0530	commit: Gnothing
+edaab286d5bbd1bbd1833228d2ac4eb913a1ea29 cd04d3a0271dfda20f5935bb87866a45347d3d70 msunij <msunij1993@gmail.com> 1520118925 +0530	checkout: moving from centercaption to master
