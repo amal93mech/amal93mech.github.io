@@ -78,6 +78,11 @@ function main() {
 
 }());
 
+<<<<<<< HEAD
 
 }
 main();
+=======
+}
+main();
+>>>>>>> 6d5a58d32a1b110c031cdbde8fa5eb053894e8f9
