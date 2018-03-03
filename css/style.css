@@ -140,15 +140,17 @@ height: auto;
 	height: 54px;
 	background-color: black;
 }
+@media screen and (min-width: 603px) {
+	.substituter {
+		height: 0px;
+	}
+}
+
+
 .item img {
 	max-width: 100%;
 }
-.intro-text {
-	/*background: url(../img/header-bg.jpg) no-repeat bottom center;
-	background-size: cover;
-	color: #cfcfcf;*/
-	position: fixed;
-	height: 100%;
+
 }
 .intro-text p {
 	color: rgba(255,255,255,0.5);
@@ -158,17 +160,65 @@ height: auto;
 	padding: 0 4px;
 }
 .intro-text {
-	position: relative;
-	padding-top: 250px;
-	padding-right: 0;
-	padding-left: 0;
-	padding-bottom: 200px;
+	position: absolute;
+	height: 200px;
+	top: 25%;
+	left: 100px;
+	right: 100px;
+	z-index: 200000;
 }
 .intro-text H1 {
-	font-size: 60px;
+	font-size: 0px;
 	color: #eeeeee;
 	font-weight: 600;
 }
+
+@media (min-width: 420px) {
+	.intro-text {
+		top: 30%;
+	}
+	.intro-text H1 {
+		font-size: 25px;
+	}
+}
+
+@media (min-width: 576px) {
+	.intro-text {
+		top: 35%;
+	}
+	.intro-text H1 {
+		font-size: 30px;
+	}
+
+}
+
+@media (min-width: 768px) {
+	.intro-text {
+		top: 40%;
+	}
+	.intro-text H1 {
+		font-size: 40px;
+	}
+}
+
+@media (min-width: 992px) {
+	.intro-text {
+		top: 35%;
+	}
+	.intro-text H1 {
+		font-size: 50px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.intro-text {
+		top: 35%;
+	}
+	.intro-text H1 {
+		font-size: 60px;
+	}	
+}
+
 .color {
 	color: #0099ff;
 	font-weight: 700;
@@ -360,7 +410,8 @@ ol.type li a:hover {
 #map {
 	height: 400px;
 	width: 400px;
-	background: #0099ff;
+	background: #eee;
+	border: 1px solid #0099ff;
 }
 @media screen and (max-width: 992px) {
 	#map {
